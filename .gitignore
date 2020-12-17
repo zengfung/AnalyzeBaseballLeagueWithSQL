@@ -1,0 +1,14 @@
+# prompt and answers
+baseball.pdf
+baseballSolutions.pdf
+
+# database file
+lahman2013.sqlite
+
+# rmd file for writing report
+report.Rmd
+
+# cache files
+.vscode/
+.Rhistory
+.RData
